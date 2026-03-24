@@ -77,12 +77,6 @@ Task App uses JSON Web Tokens (JWT) for user authentication and authorization. H
 
 **Material UI**: Front-end CSS framework for responsive design.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
 
-## Contact
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
 
-**Email**: mohammadaqdas212@gmail.com
